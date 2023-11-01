@@ -1,4 +1,4 @@
-package com.ostap.rest;
+    package com.ostap.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
